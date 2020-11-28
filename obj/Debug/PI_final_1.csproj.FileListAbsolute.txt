@@ -1,0 +1,27 @@
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\bin\Debug\PI_final_1.exe.config
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\bin\Debug\PI_final_1.exe
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\bin\Debug\PI_final_1.pdb
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.csprojAssemblyReference.cache
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.Menu_manutencao.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.Menu_principal.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.Properties.Resources.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.csproj.GenerateResource.cache
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.csproj.CoreCompileInputs.cache
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.exe
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.pdb
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.orcamento_pc_notebook.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.orc_samsung.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.orc_apple.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.orc_motorola.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.botao1.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.botao2.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.botao3.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.botao4.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.botao5.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.botao6.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.botao7.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.botao8.resources
+C:\c# prog\PI_2sem_f\PI_final_1\PI_final_1\obj\Debug\PI_final_1.Detalhes.resources
+C:\Users\Lucas\Downloads\PI_final_1-20201128T174615Z-001\PI_final_1\obj\Debug\PI_final_1.csprojAssemblyReference.cache
+C:\Users\Lucas\Downloads\PI_final_1-20201128T174615Z-001\PI_final_1\obj\Debug\PI_final_1.exe
+C:\Users\Lucas\Downloads\PI_final_1-20201128T174615Z-001\PI_final_1\obj\Debug\PI_final_1.pdb
